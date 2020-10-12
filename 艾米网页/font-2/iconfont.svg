@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhijiao" unicode="&#58899;" d="M3.85057712 892.14942288L3.85057712-124.14942287999997l1016.29884576 0 0 111.94016272L115.79073984-12.209260159999985l0 904.35868304z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zhijiao1" unicode="&#59456;" d="M85.333333 896c51.2 0 85.333333-34.133333 85.333334-85.333333v-768h768c51.2 0 85.333333-34.133333 85.333333-85.333334s-34.133333-85.333333-85.333333-85.333333H85.333333c-51.2 0-85.333333 34.133333-85.333333 85.333333V810.666667c0 51.2 34.133333 85.333333 85.333333 85.333333z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

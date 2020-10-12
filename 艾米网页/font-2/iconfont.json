@@ -1,0 +1,23 @@
+{
+  "id": "1985780",
+  "name": "2222",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13449413",
+      "name": "直角",
+      "font_class": "zhijiao",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "14957992",
+      "name": "直角",
+      "font_class": "zhijiao1",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    }
+  ]
+}

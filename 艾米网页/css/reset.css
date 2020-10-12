@@ -1,0 +1,45 @@
+@charset "uft-8";
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, legend, input, textarea, p, th, td{
+    padding: 0;
+    margin: 0;
+}
+body,html{
+    width: 100%;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: none;
+    font-size: 16px;
+}
+ul,ol,dl{
+    list-style: none;
+}
+a,u{
+    text-decoration: none;
+}
+b,strong{
+    font-weight: normal;
+}
+i,em{
+    font-style: normal;
+}
+img{
+    border: 0;
+    display: block;
+}
+input,button{
+    outline: none;
+}
+.clear_fix:after{
+    content:'.';
+    display:block;
+    clear:both;
+    height:0;
+    overflow:hidden;
+    visibility:hidden;
+}
+.clear_fix{
+    zoom:1;
+}
+select{
+    border: none;
+}

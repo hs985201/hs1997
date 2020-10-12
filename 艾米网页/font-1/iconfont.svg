@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhixian" unicode="&#58924;" d="M32 416h960v-64H32v64z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zhixian1" unicode="&#59059;" d="M512 877.748706a60.235294 60.235294 0 0 0 59.813647-53.248L572.235294 817.513412v-843.294118a60.235294 60.235294 0 0 0-120.048941-7.047529L451.764706-25.780706v843.294118a60.235294 60.235294 0 0 0 60.235294 60.235294z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zhijiao-copy" unicode="&#59286;" d="M3.85057712-124.14942287999997L1020.14942288-124.14942287999997l0 1016.29884576-111.94016272 0L908.20926016-12.209260159999985l-904.35868304 0z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zhijiao-copy1" unicode="&#58880;" d="M1020.14942288 892.14942288L3.85057712 892.14942288l0-1016.29884576 111.94016272 0L115.79073984 780.20926016l904.35868304 0z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

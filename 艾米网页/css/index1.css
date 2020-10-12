@@ -1,0 +1,385 @@
+@charset "uft-8";
+#logo{
+    width: 100%;
+    height: 100%;
+}
+.logo-con{
+    width: 1200px;
+    height: 77px;
+    margin: auto;
+}
+.logo-1{
+    width: 633px;
+    height: 77px;
+    float: left;
+}
+.logo-1 img{
+    margin-top: 24px;
+}
+.logo-2{
+    width: 567px;
+    height: 77px;
+    float: left;
+}
+.logo-2 ul{
+    padding-top: 24px;
+}
+.logo-2 li{
+    float: left;
+    font-size: 16px;
+    color: #cbcbcb;
+    width: 105px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.logo-2 a:hover{
+    color: #fc7863;
+    border-bottom: 2px solid #fc7863;
+}
+#banner{
+    width: 100%;
+    height: 100%;
+}
+.banner-con{
+    width: 1200px;
+    height: 400px;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+.banner-con img{
+    position: absolute;
+    left: 50%;
+    margin-left: -960px;
+}
+/* 下部分 */
+#nav{
+    width: 100%;
+    height: 100%;
+}
+.nav-con{
+    width: 1200px;
+    height: 60px;
+    margin: auto;
+}
+.nav-1{
+    width: 100px;
+    height: 60px;
+    float: left;
+}
+.nav-2{
+    width: 1100px;
+    height: 24px;
+    float: left;
+    border-bottom:1px solid #666666 ;
+    text-align: right;
+    font-size: 16px;
+    color:#666666 ;
+    padding-top: 36px;
+}
+.nav-2 span{
+    font-size: 16px;
+    color: #fd8473;
+}
+#case{
+    width: 100%;
+    height: 100%;
+}
+.case-con{
+    width: 1200px;
+    height: 42px;
+    margin: auto;
+    line-height: 42px;
+    position: relative;
+}
+.case-con #font-1{
+    position: absolute;
+    top: -13px;
+    left: 140px;
+}
+.case-con p{
+    font-size: 22px;
+    color: #333333;
+    margin-left: 28px;
+}
+.case-con #font-2{
+    position: absolute;
+    top: 10px;
+    left: 1px;
+    color: #666666;
+}
+#infor{
+    width: 100%;
+    height: 100%;
+}
+.infor-con{
+    width: 1200px;
+    height: 630px;
+    margin: auto;
+}
+.infor-1{
+    width:1200px ;
+    height:121px ;
+}
+.infor-1 .infor-one{
+    width: 302px;
+    height: 121px;
+    float: left;
+}
+.infor-1 .infor-one div{
+    width: 105px;
+    height: 92px;
+    border: 1px solid #666666;
+    margin-top: 3px;
+    margin-left: 184px;
+}
+.infor-1 .infor-one div h4{
+    width:105px ;
+    height: 46px;
+    font-size: 16px;
+    color: #666666;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-1 .infor-one div h3{
+    width:105px ;
+    height: 46px;
+    background: #666666;
+    font-size: 16px;
+    color: #fff;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-1 .infor-two{
+    width: 898px;
+    height: 121px;
+    float: left;
+}
+.infor-1 .infor-two div{
+    width: 888px;
+    height: 92px;
+    margin: 3px 5px 0 5px;
+}
+.infor-1 .infor-two h6{
+    width: 262px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 20px;
+    color: #666666;
+    border-bottom: 1px solid #666666;
+    text-align: center;
+}
+.infor-1 .infor-two p{
+    height: 60px;
+    font-size: 12px;
+    color: #666666;
+    margin-top: 20px;
+}
+.infor-2{
+    width:1200px ;
+    height:139px ;
+}
+.infor-2 .infor-one{
+    width: 302px;
+    height: 121px;
+    float: left;
+}
+.infor-2 .infor-one div{
+    width: 105px;
+    height: 92px;
+    border: 1px solid #666666;
+    margin-top: 16px;
+    margin-left: 184px;
+}
+.infor-2 .infor-one div h4{
+    width:105px ;
+    height: 46px;
+    font-size: 16px;
+    color: #666666;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-2 .infor-one div h3{
+    width:105px ;
+    height: 46px;
+    background: #666666;
+    font-size: 16px;
+    color: #fff;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-2 .infor-two{
+    width: 898px;
+    height: 121px;
+    float: left;
+}
+.infor-2 .infor-two div{
+    width: 888px;
+    height: 92px;
+    margin: 16px 5px 0 5px;
+}
+.infor-2 .infor-two h6{
+    width: 364px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 20px;
+    color: #666666;
+    border-bottom: 1px solid #666666;
+    text-align: center;
+}
+.infor-2 .infor-two p{
+    height: 60px;
+    font-size: 12px;
+    color: #666666;
+    margin-top: 20px;
+}
+/* ////////////////////////// */
+.infor-3{
+    width: 1200px;
+    height: 145px;
+}
+.infor-3 .infor-one{
+    width: 302px;
+    height: 121px;
+    float: left;
+}
+.infor-3 .infor-one div{
+    width: 105px;
+    height: 92px;
+    border: 1px solid #666666;
+    margin-top: 12px;
+    margin-left: 184px;
+}
+.infor-3 .infor-one div h4{
+    width:105px ;
+    height: 46px;
+    font-size: 16px;
+    color: #666666;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-3 .infor-one div h3{
+    width:105px ;
+    height: 46px;
+    background: #666666;
+    font-size: 16px;
+    color: #fff;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-3 .infor-two{
+    width: 898px;
+    height: 121px;
+    float: left;
+}
+.infor-3 .infor-two div{
+    width: 888px;
+    height: 92px;
+    margin: 12px 5px 0 5px;
+}
+.infor-3 .infor-two h6{
+    width: 182px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 20px;
+    color: #666666;
+    border-bottom: 1px solid #666666;
+    text-align: center;
+}
+.infor-3 .infor-two p{
+    height: 60px;
+    font-size: 12px;
+    color: #666666;
+    margin-top: 20px;
+}
+/* //////////////////////////// */
+.infor-4{
+    width: 1200px;
+    height:135px ;
+}
+.infor-4 .infor-one{
+    width: 302px;
+    height: 121px;
+    float: left;
+}
+.infor-4 .infor-one div{
+    width: 105px;
+    height: 92px;
+    border: 1px solid #666666;
+    margin-top: 12px;
+    margin-left: 184px;
+}
+.infor-4 .infor-one div h4{
+    width:105px ;
+    height: 46px;
+    font-size: 16px;
+    color: #666666;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-4 .infor-one div h3{
+    width:105px ;
+    height: 46px;
+    background: #666666;
+    font-size: 16px;
+    color: #fff;
+    line-height: 46px;
+    text-align: center;
+}
+.infor-4 .infor-two{
+    width: 898px;
+    height: 121px;
+    float: left;
+}
+.infor-4 .infor-two div{
+    width: 888px;
+    height: 92px;
+    margin: 12px 5px 0 5px;
+}
+.infor-4 .infor-two h6{
+    width: 222px;
+    height: 32px;
+    line-height: 32px;
+    font-size: 20px;
+    color: #666666;
+    border-bottom: 1px solid #666666;
+    text-align: center;
+}
+.infor-4 .infor-two p{
+    height: 60px;
+    font-size: 12px;
+    color: #666666;
+    margin-top: 20px;
+}
+.infor-5{
+    width: 1200px;
+    height: 90px;
+}
+.infor-5 div{
+    width: 450px;
+    height: 24px;
+    margin: auto;
+    margin-top: 20px;
+}
+.infor-5 div a{
+    border: 1px solid #666666;
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+    margin-left: 8px;
+}
+#fonter{
+    width: 100%;
+    height: 100%;
+    background: #666666;
+}
+.fonter-con{
+    width: 1259px;
+    height: 81px;
+    margin: auto;
+    text-align: center;
+    line-height: 81px;
+    font-size: 12px;
+    color: #ededed;
+}
